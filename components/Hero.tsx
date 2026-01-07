@@ -41,7 +41,7 @@ const Hero: React.FC = () => {
             </div>
             <div className="p-0">
                <img
-                  src="/assets/hero-dashboard.png"
+                  src="https://lh3.googleusercontent.com/sitesv/AAzXCkcCNW7i5UQEp9ILr2v2qZQI4_ha6YYsObtXu6ARG0Ml1n6l2IFtBJkxXSVNTc3VjF2Ypoq1ETjYzmWCp4gK7pUCcE3r1IDqbH4QVC4vFzESyPZSQa0zGKtEzrF1sfefPZUi6BqeE8LbRvO9gxQ5oINEJSdpT_Dq7ovf2kk07VxWrlvmyWSss7FHTFWjrjmIYMKvt_l7VnNlZoenGCwN14aZucrpy5LxrruP-VY=w1280"
                   alt="Dashboard de la aplicación EggMonitor mostrando KPIs de calidad de huevo"
                   className="w-full object-cover rounded-b-2xl h-[400px]"
                   width="1280"
