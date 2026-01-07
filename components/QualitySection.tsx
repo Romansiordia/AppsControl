@@ -59,7 +59,7 @@ const QualitySection: React.FC = () => {
                 impact="Minimiza mermas y optimiza el manejo nutricional por edad."
             >
                 <img 
-                    src="https://lh3.googleusercontent.com/sitesv/AAzXCkcOV3ua_RjOiFPSJIOl_vqpU3FCRij-06S3zqNDcwpTyLwCo9Gebr7qGuegZDp1F4cQ8LoSkHY-Ce004_wyDMI_5VgSLrw-nx6h7n7DNeedqnJOnW9iGj_yjfVpVy_fAztbksm9dIl6GLwUXJBtM2Y4DJpF0xONzvgN9QnVM7lktFg4pTFRj9FxoYQ=w1280"
+                    src="/assets/quality-chickens.png"
                     alt="Gallina blanca en granja" 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />
@@ -73,7 +73,7 @@ const QualitySection: React.FC = () => {
                 impact="Preferencia de compra y funcionalidad en industria alimentaria."
             >
                 <img 
-                    src="https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?auto=format&fit=crop&w=800&q=80"
+                    src="/assets/quality-yolk.png"
                     alt="Yema de huevo y granos" 
                     className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                 />

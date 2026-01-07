@@ -25,15 +25,15 @@ const solutionsData: Solution[] = [
   {
     icon: <EggIcon className="text-amber-400 h-6 w-6 mr-2" />,
     title: 'Egg Monitor',
-    logoUrl: 'https://lh3.googleusercontent.com/sitesv/AAzXCkcCNW7i5UQEp9ILr2v2qZQI4_ha6YYsObtXu6ARG0Ml1n6l2IFtBJkxXSVNTc3VjF2Ypoq1ETjYzmWCp4gK7pUCcE3r1IDqbH4QVC4vFzESyPZSQa0zGKtEzrF1sfefPZUi6BqeE8LbRvO9gxQ5oINEJSdpT_Dq7ovf2kk07VxWrlvmyWSss7FHTFWjrjmIYMKvt_l7VnNlZoenGCwN14aZucrpy5LxrruP-VY=w1280',
+    logoUrl: '/assets/egg-monitor-logo.png',
     category: 'Calidad de Huevo',
     categoryIcon: <ActivityIcon className="text-amber-600 h-6 w-6" />,
     description: 'Visualiza en tiempo real los indicadores clave de calidad del huevo. Anticipa problemas, ajusta la nutrición y toma decisiones proactivas para maximizar la producción de huevo vendible.',
     features: ['Dashboard interactivo de calidad', 'Comparativas por lote y genética', 'Alertas automáticas de desviación'],
     imageUrls: [
-        'https://lh3.googleusercontent.com/sitesv/AAzXCkcCNW7i5UQEp9ILr2v2qZQI4_ha6YYsObtXu6ARG0Ml1n6l2IFtBJkxXSVNTc3VjF2Ypoq1ETjYzmWCp4gK7pUCcE3r1IDqbH4QVC4vFzESyPZSQa0zGKtEzrF1sfefPZUi6BqeE8LbRvO9gxQ5oINEJSdpT_Dq7ovf2kk07VxWrlvmyWSss7FHTFWjrjmIYMKvt_l7VnNlZoenGCwN14aZucrpy5LxrruP-VY=w1280',
-        'https://lh3.googleusercontent.com/sitesv/AAzXCkff1lnkmdnb-oTtwZQM9nqIta07QA5_og-zKx0jJE3hKxpI1MDIqzvSMB7f8W2MEdpZ2XwujRFCdERhDfsmGGmOh_5A7pRWT_Ts4X5NgCL1vh4jbKcCKYbWr7_nlSdLwIjOyQI2H9h0mG32Jd-nAM9fYgZ1iJ5auAA0YEmGchTB4g4pwYAfbdS7qSiV0dcfJbYVH_rMl2Yjre6gT2vM9jytpbv9JfGmqN3m=w1280',
-        'https://lh3.googleusercontent.com/sitesv/AAzXCkeTupbzIkwqORztDTrXmhSxxO4O-djoWYIKIqTkLaYjWBTsjauYJ0EAKemEv77b44MDd1B-0X2zsuDHrkK66_nZwijyIMLL2-7S-kT3X-jVLQ-gqiF7D8H8_4aGIafBBFm0IJcceCu-xwDQIluwq1XugNTQ2NXsvXffRC1rGAXXx7kjpEjrW3FO6u4=w1280',
+        '/assets/egg-monitor-kpis.png',
+        '/assets/egg-monitor-gauges.png',
+        '/assets/egg-monitor-charts.png',
     ],
     liveUrl: 'https://egg-monitorv1.vercel.app/',
     theme: {
@@ -47,14 +47,14 @@ const solutionsData: Solution[] = [
   {
     icon: <MicroscopeIcon className="text-indigo-400 h-6 w-6 mr-2" />,
     title: 'LabSys',
-    logoUrl: 'https://lh3.googleusercontent.com/sitesv/AAzXCkdqF0njKY1mn7wQVtmUM4JO09iCYApcsque437LNzS6kEVaCIJB15Vlrp1Mr2HLnC7F907Zz776EpxQB0OOqI-ydaR3x8rX2Dup_lYXfm7g0DPzphf0m99yZdTMWNNgTxfOmp7WLoCu-XB_S3mby2qR5LBjDxVVfc83PLOy6dQrP67eIro62afv6Rw=w1280',
     category: 'Gestión de Laboratorio',
     categoryIcon: <MicroscopeIcon className="text-indigo-600 h-6 w-6" />,
     description: 'Nuestra plataforma LabSys centraliza y visualiza los resultados de tu laboratorio. Sincroniza datos de múltiples equipos y accede a un historial completo para cada muestra.',
     features: ['Integración con equipos de laboratorio', 'Visualización de historial por muestra', 'Garantía de trazabilidad y calidad'],
-    imageUrls: ['https://lh3.googleusercontent.com/sitesv/AAzXCkdqF0njKY1mn7wQVtmUM4JO09iCYApcsque437LNzS6kEVaCIJB15Vlrp1Mr2HLnC7F907Zz776EpxQB0OOqI-ydaR3x8rX2Dup_lYXfm7g0DPzphf0m99yZdTMWNNgTxfOmp7WLoCu-XB_S3mby2qR5LBjDxVVfc83PLOy6dQrP67eIro62afv6Rw=w1280',
-                'https://lh3.googleusercontent.com/sitesv/AAzXCkd8utLvVWlw-u6zYj9k6hmpXwy_H58bz_53wj2kB_-akY0jW4w1ynC7d5NpF_-WepRBcXBBd8XwvXMGH30svHGBhj_1eDWied6JVjOe7lcqxXk17t3KKiXoEbluc2vnmL-havUpr_1FMqnut55sF9SrNPf9hDVzxsuinlb1b8Pe78yAlMwo4Eu9qaXIyMrwq2b2o-TK8erP9llUhiJsKXoRGAXFBh1nHiCzLwM=w1280',
-                'https://lh3.googleusercontent.com/sitesv/AAzXCkfKA38HBr4x598vNfCv1tnqmZb11MlZ46lnBy3xKCzr7EgGlELomM1PQGYqZ5cbhehQ4HhCXIBSxuuQj_WUCvtAPP9CRC0DkNrcPKYlaMo8QDu8kVmJIowRsdy9dHVxB51ezup69wkA7hK0h-h-Y6W6AFGJ8bqwwEa5UbAOcZVndd_QSDy69yyMC8fynuijZ1fekVyB1wd3V5zHiamenxsDQ7kr60r0wx3JYLc=w1280',   
+    imageUrls: [
+        '/assets/labsys-dash-1.png',
+        '/assets/labsys-dash-2.png',
+        '/assets/labsys-dash-3.png',   
     ],
     liveUrl: 'https://sync-lab-rho.vercel.app/',
     theme: {
@@ -68,13 +68,14 @@ const solutionsData: Solution[] = [
    {
     icon: <ScaleIcon className="text-emerald-400 h-6 w-6 mr-2" />,
     title: 'Feed Balance',
-    logoUrl: 'https://lh3.googleusercontent.com/sitesv/AAzXCkesD5k7HKuMR2iuuzBkTP-ti46PPw8wNl4UoiCFiPQ7AHwYp6xYmxck_7ZtTw8dwEfjyte8Vqd5p9bZ_rwkygm9sqNbLSbDQeHYxJVvXAT4Qt7qL8mS_in_ZfxJEvdg6nkW6NXUN97pezwjQfSbVKgaMyKtagqRIRXrrBJL5SK91EPZmBv7oOK1tT-lBqIZnMuxaaX5cMkxw_RwqXLNg1acas1fClnBO7Sr=w1280',
+    logoUrl: '/assets/feed-balance-logo.png',
     category: 'Optimización de Alimento',
     categoryIcon: <ScaleIcon className="text-emerald-600 h-6 w-6" />,
     description: 'Formula raciones de mínimo costo sin sacrificar el rendimiento. Nuestro motor de optimización te permite gestionar ingredientes, precios y restricciones para encontrar la mezcla perfecta.',
     features: ['Optimización de costo de fórmulas', 'Base de datos de ingredientes', 'Simulación de escenarios y precios'],
-    imageUrls: ['https://lh3.googleusercontent.com/sitesv/AAzXCkesD5k7HKuMR2iuuzBkTP-ti46PPw8wNl4UoiCFiPQ7AHwYp6xYmxck_7ZtTw8dwEfjyte8Vqd5p9bZ_rwkygm9sqNbLSbDQeHYxJVvXAT4Qt7qL8mS_in_ZfxJEvdg6nkW6NXUN97pezwjQfSbVKgaMyKtagqRIRXrrBJL5SK91EPZmBv7oOK1tT-lBqIZnMuxaaX5cMkxw_RwqXLNg1acas1fClnBO7Sr=w1280',
-                'https://lh3.googleusercontent.com/sitesv/AAzXCkcfGcKMZ3VkV20Sg6RaUlF9XblGp54W7zqrsGHnc1w_JksCVxk7QZAbxXsy5Rf9lRsOnluWcc-Y8RncCZsTYIcD4vj3SyeWSmzSN9TGhMwg-V9gq2sCEmO38hDan3AA5RWM87Y84-u8-OVe8eJCKobtALFz3fophPt3529Hv45PTldE8y4FQBXrJUAxMpJUHOQE32L2gta25ZaW6kzuTnd5oyeQGS-0LaI0=w1280',
+    imageUrls: [
+        '/assets/feed-balance-dash-1.png',
+        '/assets/feed-balance-dash-2.png',
     ],
     liveUrl: 'https://feed-balance.vercel.app/',
     theme: {
