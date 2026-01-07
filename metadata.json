@@ -1,0 +1,5 @@
+{
+  "name": "AppControl - Soluciones Pecuarias y de Laboratorio",
+  "description": "Una plataforma web que presenta soluciones de software especializadas para la industria pecuaria y de laboratorios, mostrando aplicaciones como Egg Monitor, Sync Lab y Feed Balance para optimizar la producción y el análisis de datos.",
+  "requestFramePermissions": []
+}
